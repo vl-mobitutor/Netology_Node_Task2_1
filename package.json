@@ -1,0 +1,22 @@
+{
+  "name": "task2_1",
+  "version": "1.0.0",
+  "description": "Netology Node.js course home task 2.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vl-mobitutor/Netology_Node_Task2_1.git"
+  },
+  "author": "Vyacheslav L",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vl-mobitutor/Netology_Node_Task2_1/issues"
+  },
+  "homepage": "https://github.com/vl-mobitutor/Netology_Node_Task2_1#readme",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
